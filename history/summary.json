@@ -4,17 +4,19 @@
     "url": "https://benefique-livre-79448.herokuapp.com/",
     "icon": "https://favicons.githubusercontent.com/benefique-livre-79448.herokuapp.com",
     "slug": "test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 249,
-    "timeDay": 133,
-    "timeWeek": 204,
-    "timeMonth": 229,
-    "timeYear": 249,
-    "dailyMinutesDown": {}
+    "time": 246,
+    "timeDay": 111,
+    "timeWeek": 190,
+    "timeMonth": 225,
+    "timeYear": 246,
+    "dailyMinutesDown": {
+      "2021-08-25": 0
+    }
   }
 ]
