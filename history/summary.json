@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/benefique-livre-79448.herokuapp.com",
     "slug": "test",
     "status": "down",
-    "uptime": "82.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptime": "82.25%",
+    "uptimeDay": "24.08%",
+    "uptimeWeek": "89.15%",
     "uptimeMonth": "77.85%",
     "uptimeYear": "80.43%",
     "time": 234,
-    "timeDay": 202,
-    "timeWeek": 211,
-    "timeMonth": 208,
+    "timeDay": 213,
+    "timeWeek": 207,
+    "timeMonth": 198,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2022-08-25": 0,
+      "2022-08-26": 149,
+      "2022-08-25": 945,
       "2022-08-01": 118,
       "2022-07-31": 1440,
       "2022-07-30": 1440,
@@ -102,8 +103,7 @@
       "2021-08-30": 1440,
       "2021-08-29": 1440,
       "2021-08-28": 1440,
-      "2021-08-27": 1440,
-      "2021-08-26": 1440
+      "2021-08-27": 1440
     }
   }
 ]
