@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/benefique-livre-79448.herokuapp.com.ico",
     "slug": "test",
     "status": "down",
-    "uptime": "21.70%",
+    "uptime": "21.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 257,
-    "timeDay": 112,
-    "timeWeek": 213,
-    "timeMonth": 207,
+    "timeDay": 161,
+    "timeWeek": 202,
+    "timeMonth": 204,
     "timeYear": 253,
     "dailyMinutesDown": {
-      "2026-09-10": 241,
+      "2026-09-11": 237,
+      "2026-09-10": 1440,
       "2026-09-09": 1440,
       "2026-09-08": 1440,
       "2026-09-07": 1440,
@@ -379,8 +380,7 @@
       "2025-09-15": 1440,
       "2025-09-14": 1440,
       "2025-09-13": 1440,
-      "2025-09-12": 1440,
-      "2025-09-11": 1440
+      "2025-09-12": 1440
     }
   }
 ]
